@@ -1,7 +1,7 @@
 applications:
   - name: concoursetutorial-redirector
     buildpacks: [php_buildpack]
-    disk_quota: 160M
+    disk_quota: 320M
     instances: 1
     memory: 32M
     routes:

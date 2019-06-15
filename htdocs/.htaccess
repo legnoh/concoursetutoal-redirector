@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ https://concoursetutorial-ja.site.legnoh.lkj.io%{REQUEST_URI} [L,R=301]
